@@ -7,7 +7,7 @@ Radio Broadcast from 13.10.2020 (US:10/13/2020):
 	Your browser does not support the audio element.
 </audio><br />
 <br>
-[Download](https://github.com/alexwcrafter/archive/releases/tag/1.0.1)
+[**Download**](https://github.com/alexwcrafter/archive/releases/tag/1.0.1)
 <br>
 <br>
 **_Older Broadcasts:_** <br>
@@ -17,4 +17,4 @@ Radio Livestream from 12.10.2020 (US:10/12/2020) 10:45PM:
 	Your browser does not support the audio element.
 </audio><br />
 <br>
-[Download](https://github.com/alexwcrafter/archive/releases/tag/1.0.0)
+[**Download**](https://github.com/alexwcrafter/archive/releases/tag/1.0.0)
