@@ -7,6 +7,8 @@ Radio Broadcast from 15.10.2020 (US:10/15/2020):
 	Your browser does not support the audio element.
 </audio><br />
 <br>
+[**Download**](https://github.com/alexwcrafter/archive/releases/tag/1.0.2)
+<br>
 <br>
 **_Older Broadcasts:_** <br>
 <br>
